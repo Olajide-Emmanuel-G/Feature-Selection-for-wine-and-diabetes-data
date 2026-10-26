@@ -147,7 +147,6 @@ The notebook walks through:
 
 ```
 
-```
 ## Key Takeaways
 
 **From Version 1 (Wine)**
@@ -171,4 +170,3 @@ The notebook walks through:
 - A selection result is only a claim until it is tested by training a model on the chosen features and scoring it on held-out data.
 - A reliable workflow is to set a baseline, try methods from different families, keep everything else fixed, and compare the results.
 
----
