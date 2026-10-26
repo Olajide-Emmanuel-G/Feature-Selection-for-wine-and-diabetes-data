@@ -141,34 +141,13 @@ The notebook walks through:
 ```
 .
 ├── README.md
-├── notebooks/
-│   ├── Wine_Data_Feature_Selection__Version_1_.ipynb
-│   └── Diabetes_Data_Feature_Selection__Version_2_.ipynb
-└── writeups/
-    ├── wine_feature_selection_v1_writeup.md
-    └── diabetes_feature_selection_v2_writeup.md
-
-
-## Getting Started
-
-### Requirements
-
-- Python 3.9 or later
-- Jupyter Notebook or JupyterLab
-- The following packages:
+├── Wine Data (Version 1).ipynb
+├── Diabetes Data (Version 2).ipynb
+└── Documentation.docx
 
 ```
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-Boruta
+
 ```
-
-
-
-
 ## Key Takeaways
 
 **From Version 1 (Wine)**
